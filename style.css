@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background: rgb(178, 217, 234);
+    margin: 0;
+    overflow: hidden;
+}
+canvas {
+    background: rgb(173, 161, 205);
+    display: block;
+    margin: auto;
+}
